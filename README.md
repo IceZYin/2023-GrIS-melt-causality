@@ -41,6 +41,12 @@ Due to file size limitations, raw model output is not included in this repositor
 
 ---
 
+## PCMCI+
+
+The PCMCI+ analyses in this repository are performed using the python package Tigramite and freely available at [https://github.com/jakobrunge/tigramite](https://github.com/jakobrunge/tigramite). Several analysis scripts were adapted from the Tigramite tutorial example workflows and modified for the specific applications presented in this study.
+
+---
+
 ## Notes
 
 - Some scripts contain local file paths that may need modification before execution.
